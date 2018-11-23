@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420504424248",
+    "firebase_url": "https://favaebooksignin.firebaseio.com",
+    "project_id": "favaebooksignin",
+    "storage_bucket": "favaebooksignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420504424248:android:a595b01b45746cad",
+        "android_client_info": {
+          "package_name": "studio.in.prakharshuka.facebooksignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420504424248-085m7otjil2sk3g1a3crkiv8trmn7b29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.in.prakharshuka.facebooksignin",
+            "certificate_hash": "f462860ff0b5aa47c69fe8ce5b94f83d0071508b"
+          }
+        },
+        {
+          "client_id": "420504424248-ospvhtrpof56njjaa01s2mrac2q1l7jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGoYqTpJ6RMJ6_z50xZSrRFbsRgJQHx2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420504424248-ospvhtrpof56njjaa01s2mrac2q1l7jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
